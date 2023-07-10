@@ -1,0 +1,9 @@
+.TeamTile{
+    height: 180px;
+    text-align: center;
+    border : 1px solid white;
+    padding: 20px;
+}
+.TeamTile:hover {
+    background-color: rgba(211, 211, 211, 0.5);
+}
