@@ -1,4 +1,4 @@
-# Java Brains IPL Dashboard
+# Sankalp IPL Dashboard
 
 Browse your favorite IPL teams and access their past games details, wins and losses ratios - accessible by team and tournament year.
 
@@ -6,8 +6,6 @@ This is a companion project for the Java Brains course on Full Stack Development
 
 Check out the playlist below to see this app built end-to-end from scratch.
 
-Full Playlist:
-https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
 
 ## Screenshots
@@ -30,11 +28,13 @@ https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 * Spring Batch
 * Java Persistence API, Repositories and JPQL
 * React JS
+* HTML/CSS
+* Javascript
 
 ## Data Set Used
 https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata
 
 
 ## Contributing
-The application looks like -> [YouTube playlist](https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
-)  to see how this application is built first! 
+The application looks like -> [YouTube Video](https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
+)  
