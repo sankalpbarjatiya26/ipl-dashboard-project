@@ -35,6 +35,6 @@ Check out the playlist below to see this app built end-to-end from scratch.
 https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata
 
 
-## Contributing
+## Demo video
 The application looks like -> [YouTube Video](https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 )  
