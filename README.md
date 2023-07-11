@@ -12,27 +12,29 @@ https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 
 ## Screenshots
 
-### Team Page
+### IPL-HOME Page
 
-![Team Page Page](/)
+![Team Page Page](/ipl-home.png)
 
-### Matches Page
+### Team Total Matches Page
 
-![Matches Page](/ipl-home.png)
+![Matches Page](/ipl-yearlyMatchRecord.png)
+
+### Individual Team Page
+
+![Matches Page](/ipl-individualTeam.png).
 
 ## Technologies
 
 * Spring Boot
 * Spring Batch
 * Java Persistence API, Repositories and JPQL
-* HSQL DB
 * React JS
-* AWS BeanStalk
 
 ## Data Set Used
 https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020/metadata
 
 
 ## Contributing
-Look at the Issues tab for feature improvements and bugs filed for this repo. Make sure you watch the [YouTube playlist](https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
+The application looks like -> [YouTube playlist](https://youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0
 )  to see how this application is built first! 
